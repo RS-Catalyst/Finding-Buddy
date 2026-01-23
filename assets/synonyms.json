@@ -1,0 +1,425 @@
+{
+    "person": [
+        "human",
+        "people",
+        "man",
+        "woman",
+        "child",
+        "kid",
+        "boy",
+        "girl",
+        "adult",
+        "individual"
+    ],
+    "bicycle": [
+        "bike",
+        "cycle",
+        "push bike",
+        "pedal bike"
+    ],
+    "car": [
+        "automobile",
+        "vehicle",
+        "sedan",
+        "suv",
+        "van"
+    ],
+    "motorcycle": [
+        "motorbike",
+        "scooter",
+        "bike",
+        "moped"
+    ],
+    "airplane": [
+        "plane",
+        "aircraft",
+        "jet",
+        "aeroplane",
+        "flight"
+    ],
+    "bus": [
+        "coach",
+        "shuttle",
+        "public bus"
+    ],
+    "train": [
+        "railway",
+        "locomotive",
+        "metro",
+        "subway",
+        "rail"
+    ],
+    "truck": [
+        "lorry",
+        "pickup",
+        "delivery truck",
+        "van"
+    ],
+    "boat": [
+        "ship",
+        "vessel",
+        "yacht",
+        "watercraft"
+    ],
+    "traffic light": [
+        "stoplight",
+        "signal",
+        "traffic signal",
+        "stop light"
+    ],
+    "fire hydrant": [
+        "hydrant",
+        "water hydrant",
+        "fire plug"
+    ],
+    "stop sign": [
+        "stop",
+        "stop board"
+    ],
+    "parking meter": [
+        "meter",
+        "pay meter"
+    ],
+    "bench": [
+        "seat",
+        "park bench",
+        "garden bench"
+    ],
+    "bird": [
+        "pigeon",
+        "sparrow",
+        "crow",
+        "seagull",
+        "parrot"
+    ],
+    "cat": [
+        "kitten",
+        "kitty",
+        "pet cat",
+        "feline"
+    ],
+    "dog": [
+        "puppy",
+        "doggy",
+        "pet dog",
+        "canine",
+        "pup"
+    ],
+    "horse": [
+        "pony",
+        "stallion",
+        "mare",
+        "foal"
+    ],
+    "sheep": [
+        "lamb",
+        "ewe",
+        "ram"
+    ],
+    "cow": [
+        "cattle",
+        "bull",
+        "calf",
+        "ox"
+    ],
+    "elephant": [
+        "jumbo"
+    ],
+    "bear": [
+        "grizzly",
+        "brown bear"
+    ],
+    "zebra": [
+        "striped horse"
+    ],
+    "giraffe": [
+        "long neck"
+    ],
+    "backpack": [
+        "bag",
+        "school bag",
+        "rucksack",
+        "knapsack",
+        "bookbag"
+    ],
+    "umbrella": [
+        "parasol",
+        "brolly",
+        "rain umbrella"
+    ],
+    "handbag": [
+        "purse",
+        "wallet",
+        "pocketbook",
+        "clutch",
+        "tote bag"
+    ],
+    "tie": [
+        "necktie",
+        "bow tie",
+        "bowtie"
+    ],
+    "suitcase": [
+        "luggage",
+        "travel bag",
+        "baggage",
+        "carry on"
+    ],
+    "frisbee": [
+        "disc",
+        "flying disc",
+        "flying saucer"
+    ],
+    "skis": [
+        "ski",
+        "snow skis"
+    ],
+    "snowboard": [
+        "snow board",
+        "board"
+    ],
+    "sports ball": [
+        "ball",
+        "football",
+        "soccer ball",
+        "basketball",
+        "tennis ball",
+        "volleyball",
+        "baseball"
+    ],
+    "kite": [
+        "flying kite",
+        "paper kite"
+    ],
+    "baseball bat": [
+        "bat",
+        "cricket bat"
+    ],
+    "baseball glove": [
+        "glove",
+        "mitt",
+        "catcher's mitt"
+    ],
+    "skateboard": [
+        "board",
+        "skate board"
+    ],
+    "surfboard": [
+        "surf board",
+        "board"
+    ],
+    "tennis racket": [
+        "racket",
+        "racquet",
+        "tennis racquet"
+    ],
+    "bottle": [
+        "water bottle",
+        "drink",
+        "drinking bottle",
+        "flask",
+        "container"
+    ],
+    "wine glass": [
+        "glass",
+        "wine",
+        "champagne glass"
+    ],
+    "cup": [
+        "mug",
+        "glass",
+        "coffee cup",
+        "tea cup",
+        "drinking cup",
+        "tumbler"
+    ],
+    "fork": [
+        "eating fork",
+        "dinner fork"
+    ],
+    "knife": [
+        "butter knife",
+        "dinner knife",
+        "kitchen knife"
+    ],
+    "spoon": [
+        "teaspoon",
+        "tablespoon",
+        "eating spoon"
+    ],
+    "bowl": [
+        "dish",
+        "serving bowl",
+        "food bowl"
+    ],
+    "banana": [
+        "bananas"
+    ],
+    "apple": [
+        "apples"
+    ],
+    "sandwich": [
+        "burger",
+        "hamburger",
+        "sub",
+        "hoagie"
+    ],
+    "orange": [
+        "oranges"
+    ],
+    "broccoli": [
+        "broccolis"
+    ],
+    "carrot": [
+        "carrots"
+    ],
+    "hot dog": [
+        "hotdog",
+        "sausage"
+    ],
+    "pizza": [
+        "pie",
+        "pizza slice"
+    ],
+    "donut": [
+        "doughnut",
+        "donuts"
+    ],
+    "cake": [
+        "pastry",
+        "birthday cake"
+    ],
+    "chair": [
+        "seat",
+        "stool",
+        "dining chair"
+    ],
+    "couch": [
+        "sofa",
+        "settee",
+        "loveseat",
+        "divan"
+    ],
+    "potted plant": [
+        "plant",
+        "flower pot",
+        "houseplant",
+        "pot plant"
+    ],
+    "bed": [
+        "mattress",
+        "bedroom bed"
+    ],
+    "dining table": [
+        "table",
+        "desk",
+        "eating table",
+        "dinner table"
+    ],
+    "toilet": [
+        "bathroom",
+        "restroom",
+        "commode",
+        "wc",
+        "loo"
+    ],
+    "tv": [
+        "television",
+        "monitor",
+        "screen",
+        "display",
+        "telly"
+    ],
+    "laptop": [
+        "computer",
+        "notebook",
+        "macbook",
+        "chromebook",
+        "pc"
+    ],
+    "mouse": [
+        "computer mouse",
+        "wireless mouse"
+    ],
+    "remote": [
+        "remote control",
+        "tv remote",
+        "controller",
+        "clicker",
+        "remote controller"
+    ],
+    "keyboard": [
+        "keys",
+        "typing keyboard",
+        "computer keyboard"
+    ],
+    "cell phone": [
+        "phone",
+        "mobile",
+        "mobile phone",
+        "cellphone",
+        "smartphone",
+        "iphone",
+        "android",
+        "my phone",
+        "telephone",
+        "handset"
+    ],
+    "microwave": [
+        "microwave oven"
+    ],
+    "oven": [
+        "stove",
+        "cooker",
+        "range"
+    ],
+    "toaster": [
+        "bread toaster"
+    ],
+    "sink": [
+        "basin",
+        "washbasin",
+        "wash basin"
+    ],
+    "refrigerator": [
+        "fridge",
+        "freezer",
+        "icebox"
+    ],
+    "book": [
+        "notebook",
+        "textbook",
+        "novel",
+        "magazine"
+    ],
+    "clock": [
+        "wall clock",
+        "alarm clock",
+        "timepiece",
+        "watch"
+    ],
+    "vase": [
+        "flower vase",
+        "pot"
+    ],
+    "scissors": [
+        "shears",
+        "cutter"
+    ],
+    "teddy bear": [
+        "teddy",
+        "stuffed animal",
+        "plush toy",
+        "soft toy"
+    ],
+    "hair drier": [
+        "hairdryer",
+        "blow dryer",
+        "hair dryer"
+    ],
+    "toothbrush": [
+        "brush",
+        "teeth brush",
+        "tooth brush"
+    ]
+}
